@@ -1,0 +1,15 @@
+{
+"Medicinas":[
+  {"id":"0","nombre":"Paracetamol", "dosis":"1 cada 8","contrain":"embarazo"},
+  {"id":"1","nombre":"Omeprazol", "dosis":"1 cada 6","contrain":"embarazo"},
+  {"id":"2","nombre":"Quetorolaco", "dosis":"1 cada 12","contrain":"embarazo"},
+  {"id":"3","nombre":"Ibuprofeno", "dosis":"1 cada 24","contrain":"embarazo"},  
+  {"id":"4","nombre":"Aspirina", "dosis":"1 cada 4","contrain":"embarazo"}
+  {"id":"5","nombre":"Diclofenaco", "dosis":"1 cada 8","contrain":"embarazo"}
+  {"id":"6","nombre":"Acromicina", "dosis":"1 cada 6","contrain":"embarazo"}
+  {"id":"7","nombre":"Trimetroprima", "dosis":"1 cada 12","contrain":"embarazo"}
+  {"id":"8","nombre":"Salbutamol", "dosis":"1 cada 6","contrain":"embarazo"}
+  {"id":"9","nombre":"Amoxicilina", "dosis":"1 cada 8","contrain":"embarazo"}
+  {"id":"10","nombre":"Dexametasona", "dosis":"1 cada 12","contrain":"embarazo"}
+  ]
+}
