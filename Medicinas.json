@@ -9,7 +9,6 @@
   {"id":"6","nombre":"Acromicina", "dosis":"1 cada 6","contrain":"embarazo"},
   {"id":"7","nombre":"Trimetroprima", "dosis":"1 cada 12","contrain":"embarazo"},
   {"id":"8","nombre":"Salbutamol", "dosis":"1 cada 6","contrain":"embarazo"},
-  {"id":"9","nombre":"Amoxicilina", "dosis":"1 cada 8","contrain":"embarazo"},
-  {"id":"10","nombre":"Dexametasona", "dosis":"1 cada 12","contrain":"embarazo"}
+  {"id":"9","nombre":"Amoxicilina", "dosis":"1 cada 8","contrain":"embarazo"}
   ]
 }
